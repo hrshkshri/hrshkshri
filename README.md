@@ -1,6 +1,6 @@
 - 👋 Hello world, I’m @hrshkshri
 <!-- - 👀 I’m interested in ... -->
-- 🌱 I’m currently learning c++, web development, android development.
+- 🌱 I’m currently learning c++, web development.
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me  -->
 
