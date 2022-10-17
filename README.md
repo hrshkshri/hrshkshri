@@ -16,10 +16,6 @@
 
 - 💬 Ask me about **C++ & Competative Programming**
 
-- 📫 How to reach me **harshkeshari100@gmail.com**
-
-
-
 <!-- - 👀 I’m interested in ... -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
 ## Languages & Tools ⚙️
@@ -39,6 +35,8 @@
 
 
   ## Let's Connect :handshake: 
+  [![Gmail Badge](https://img.shields.io/badge/-harshkeshari100@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devanshu.2125csme@kiet.edu)](mailto:devanshu2125.csme@kiet.edu)
+  <br>
   <a href="https://www.linkedin.com/in/hrshkshri/"> ![image](https://user-images.githubusercontent.com/108923011/196283976-4eb74e56-2fe2-4aa4-9192-456f5abc5db1.png)</a> 
   <a href="https://twitter.com/hrsh_kshri">![image](https://user-images.githubusercontent.com/108923011/196284473-3ba91fd3-f103-487d-82f7-b08b1cd7eb23.png)
 </a>
