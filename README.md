@@ -2,7 +2,7 @@
 
 <h1 align="center">👋 <𝚌𝚘𝚍𝚎𝚛s/>!, I'm Harsh Kesahri</h1>
 
-<h3 align="center">A Passionate Frontend Web Developer from India</h3>
+<h3 align="center">Full Stack Web Developer from India</h3>
 
 <!--
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">  
@@ -12,9 +12,9 @@
 
 <p align="left"> <a href="https://twitter.com/hrshkshri" target="blank"><img src="https://img.shields.io/twitter/follow/hrshkshri?logo=twitter&style=for-the-badge" alt="hrshkshri" /></a> </p>   -->
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **next.js** 
 
-- 💬 Ask me about **C++ & Competative Programming**
+- 💬 Ask me about **C++,DSA,Competative Programming and  MERN Stack**
 
 <!-- - 👀 I’m interested in ... -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
@@ -23,11 +23,13 @@
 ![image](https://user-images.githubusercontent.com/108923011/196288877-9dcd93be-6d2a-4a81-a872-91e92711c625.png)
 <img title="C" alt="C" width="46px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png"><br>
 
-![image](https://user-images.githubusercontent.com/108923011/196287087-b8a98eb8-8d85-4996-b3b9-6f0014f41d14.png)
-![image](https://user-images.githubusercontent.com/108923011/196286980-dd42e76c-1052-4c4c-b72c-a73c619797f5.png)
-![image](https://user-images.githubusercontent.com/108923011/196291197-2aa30214-1972-4b3f-a110-3e49e7b303a7.png)
-![image](https://user-images.githubusercontent.com/108923011/196288755-698d4851-52c9-49e3-982a-185706691241.png)
-![image](https://user-images.githubusercontent.com/108923011/199589285-b1d0a8be-9d2e-4d67-bfc4-cb7c16972339.png)<br>
+![image](https://user-images.githubusercontent.com/108923011/232195924-d3d0774f-3149-4ab9-910b-dfa24922cdee.png)
+![image](https://user-images.githubusercontent.com/108923011/232196099-70a42738-9fe4-481e-8d66-aae3916105a7.png)
+![image](https://user-images.githubusercontent.com/108923011/232196137-824165d9-b1cc-434a-a044-e48ebf1c4daf.png)<br>
+![image](https://user-images.githubusercontent.com/108923011/232196490-bfde6283-ded6-4640-b9bb-2f56f6febcf4.png)
+![image](https://user-images.githubusercontent.com/108923011/232196396-481d21da-9bb3-40c1-b4a0-b3ef9e85c8c4.png)
+![image](https://user-images.githubusercontent.com/108923011/232196374-63b7cf2f-ba5a-46f7-aa96-c2f764bec6c0.png)
+![image](https://user-images.githubusercontent.com/108923011/232196414-6ad926c3-4ad2-4f3d-a32f-34f0fc00694e.png)<br>
 ![image](https://user-images.githubusercontent.com/108923011/196289940-5d9b0edc-97d1-45b0-9ebb-79ec70200b89.png)
 ![image](https://user-images.githubusercontent.com/108923011/196290106-783bc856-9511-44ad-a224-b025937482be.png)
 
