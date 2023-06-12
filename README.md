@@ -35,9 +35,9 @@
   [![Gmail Badge](https://img.shields.io/badge/-harshkeshari100@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harshkeshari100@gmail.com)](mailto:harshkeshari100@gmail.com)
   <br>
   <a href="https://www.linkedin.com/in/hrshkshri/"> ![image](https://user-images.githubusercontent.com/108923011/196283976-4eb74e56-2fe2-4aa4-9192-456f5abc5db1.png)</a> 
-  <a href="https://twitter.com/hrsh_kshri">![image](https://user-images.githubusercontent.com/108923011/196284473-3ba91fd3-f103-487d-82f7-b08b1cd7eb23.png)
+  <a href="https://twitter.com/hrshkshri">![image](https://user-images.githubusercontent.com/108923011/196284473-3ba91fd3-f103-487d-82f7-b08b1cd7eb23.png)
 </a>
-  <a href="https://www.instagram.com/hrsh_kshri/">![image](https://user-images.githubusercontent.com/108923011/196285125-06d5b3d4-e36f-45cc-8a81-3c44c306918f.png)
+  <a href="https://www.instagram.com/hrshkshri/">![image](https://user-images.githubusercontent.com/108923011/196285125-06d5b3d4-e36f-45cc-8a81-3c44c306918f.png)
 </a>
 
 ## Some of my stats :bar_chart:
