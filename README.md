@@ -1,9 +1,11 @@
-[![@hrshkshri's Holopin board](https://holopin.me/hrshkshri)](https://holopin.io/@hrshkshri)
 
 <h1 align="center">👋 <𝚌𝚘𝚍𝚎𝚛s/>!, I'm Harsh Kesahri</h1>
 
-<h3 align="center">Full Stack Web Developer from India</h3>
+<h3 align="center">Developer from India</h3>
 
+```
+npx hrshkshri
+```
 <!--
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">  
 -->
@@ -14,7 +16,7 @@
 
 - 🌱 I’m currently learning **TypeScript** 
 
-- 💬 Ask me about **C++,DSA,Competative Programming and  MERN Stack**
+- 💬 Ask me about **C++, DSA, Competative Programming and  MERN Stack**
 
 <!-- - 👀 I’m interested in ... -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
