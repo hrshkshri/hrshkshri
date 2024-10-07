@@ -36,8 +36,6 @@ npx hrshkshri
 
 ## Some of my stats 📊
 
-## Some of my stats 📊
-
 <p align="center">
   <table>
     <tr>
