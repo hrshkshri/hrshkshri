@@ -3,6 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7971e,100:ffd200&height=200&section=header&text=Harsh%20Keshari&fontSize=56&fontColor=1c1c1e&animation=fadeIn&fontAlignY=38&desc=Founding%20Engineer%20%C2%B7%20Solo%20author%20of%20Crelyzor&descAlignY=60&descSize=18" width="100%" alt="Harsh Keshari" />
 </p>
 
+<h2 align="center">👋 Hey, welcome to my GitHub!</h2>
+<p align="center"><i>Glad you're here — take a look around.</i></p>
+
 <!-- ===== TYPING ===== -->
 <p align="center">
   <a href="https://www.crelyzor.app">
