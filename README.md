@@ -28,11 +28,9 @@ Your Claude companion — tokens, cache, and usage all in one spot.
 
 ### Skills
 
-**Languages** — TypeScript · JavaScript · Python
-**Frameworks** — Node.js · Express · React · Next.js · Prisma
-**AI / ML** — RAG (embeddings, Pinecone) · LLM agents (LangGraph, LangChain) · evals · Deepgram · OpenAI · Gemini
-**Cloud & Infra** — AWS · GCP · Docker · Vercel · GitHub Actions · Bull + Redis · nginx
-**Databases** — PostgreSQL · MongoDB · Redis · Pinecone
+**Core** — TypeScript · Node.js · React · Next.js · Python · PostgreSQL
+**AI** — RAG · LLM agents · evals · Deepgram · OpenAI · Gemini
+**Infra** — AWS · GCP · Docker · Redis · CI/CD
 
 <!-- ===== FOOTER BANNER ===== -->
 <p align="center">
