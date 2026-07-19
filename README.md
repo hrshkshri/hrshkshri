@@ -1,14 +1,14 @@
 <!-- ===== HEADER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7971e,100:ffd200&height=200&section=header&text=Harsh%20Keshari&fontSize=56&fontColor=1c1c1e&animation=fadeIn&fontAlignY=38&desc=Founding%20Engineer%20%C2%B7%20Solo%20author%20of%20Crelyzor&descAlignY=60&descSize=18" width="100%" alt="Harsh Keshari" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7971e,100:ffd200&height=210&section=header&text=Hey,%20welcome%20to%20my%20GitHub!%20%F0%9F%91%8B&fontSize=38&fontColor=1c1c1e&animation=fadeIn&fontAlignY=40&desc=Glad%20you%27re%20here%20%E2%80%94%20take%20a%20look%20around&descAlignY=60&descSize=18" width="100%" alt="Hey, welcome to my GitHub!" />
 </p>
 
-<h2 align="center">👋 Hey, welcome to my GitHub!</h2>
-<p align="center"><i>Glad you're here — take a look around.</i></p>
+<h1 align="center">Harsh Keshari</h1>
+<p align="center"><b>Founding Engineer · Solo author of Crelyzor</b></p>
 
 <!-- ===== TYPING ===== -->
 <p align="center">
-  <a href="https://www.crelyzor.app">
+  <a href="https://www.hrshkshri.com">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=F59E0B&center=true&vCenter=true&width=680&lines=Founding+Engineer+%40+Experiment+Labs;Solo+author+of+Crelyzor+%E2%80%94+a+productivity+OS;RAG+%7C+LLM+agents+%7C+realtime+voice;TypeScript+%7C+Node.js+%7C+React+%7C+Next.js;I+build+products+end+to+end" alt="Typing SVG" />
   </a>
 </p>
@@ -16,7 +16,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hrshkshri&label=Profile%20views&color=f59e0b&style=for-the-badge" alt="views" />
   <img src="https://img.shields.io/github/followers/hrshkshri?style=for-the-badge&color=f59e0b&logo=github&logoColor=white" alt="followers" />
-  <a href="https://www.crelyzor.app"><img src="https://img.shields.io/badge/%F0%9F%8C%90-crelyzor.app-f59e0b?style=for-the-badge" alt="site" /></a>
+  <a href="https://www.hrshkshri.com"><img src="https://img.shields.io/badge/%F0%9F%8C%90-hrshkshri.com-f59e0b?style=for-the-badge" alt="site" /></a>
   <a href="https://linkedin.com/in/hrshkshri"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 </p>
 
