@@ -10,6 +10,17 @@ npx hrshkshri
 
 - 🤝 **Open to Collaborations!**<br>Got a web or mobile dev idea? Let’s chat and build something great together! 💬
 
+## 🚀 Featured Project — Crelyzor
+
+**[Crelyzor](https://www.crelyzor.app)** — an all-in-one productivity OS for professionals (digital cards, scheduling, meeting AI, and tasks — all connected).
+
+I'm the **solo author** of Crelyzor — designed, architected, and built it end to end: the Node.js + Express backend, the React dashboard, the Next.js public site, and the infrastructure. Full authorship is public and verifiable in the commit history.
+
+[![Crelyzor Backend](https://img.shields.io/badge/Crelyzor-Backend-2648ff?style=flat-square&logo=node.js&logoColor=white)](https://github.com/crelyzor/crelyzor-backend)
+[![Crelyzor Frontend](https://img.shields.io/badge/Crelyzor-Dashboard-2648ff?style=flat-square&logo=react&logoColor=white)](https://github.com/crelyzor/crelyzor-frontend)
+[![Crelyzor Public](https://img.shields.io/badge/Crelyzor-Public%20Site-2648ff?style=flat-square&logo=next.js&logoColor=white)](https://github.com/crelyzor/crelyzor-public)
+[![Live](https://img.shields.io/badge/Live-crelyzor.app-16a34a?style=flat-square&logo=vercel&logoColor=white)](https://www.crelyzor.app)
+
 ## Stalk me 🌍
 
 [![Website](https://img.shields.io/badge/About-me?-2648ff?style=flat-square&logo=internet-explorer)](https://harsh-keshari.vercel.app/about)
