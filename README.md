@@ -62,21 +62,13 @@
 <!-- ===== FEATURED PROJECTS ===== -->
 ## 🚀 Featured Projects
 
-### [Crelyzor](https://github.com/crelyzor) &nbsp;·&nbsp; [crelyzor.app](https://www.crelyzor.app)
+### [Crelyzor](https://github.com/crelyzor) &nbsp;·&nbsp; [crelyzor.hrshkshri.com](https://crelyzor.hrshkshri.com)
 
 An all-in-one productivity OS for professionals — digital cards, scheduling, meeting AI, and tasks, all connected. Shipped to production across a multi-repo system (API · dashboard · public site · admin).
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,postgres,prisma,redis,docker&theme=dark" alt="crelyzor stack" />
-</p>
 
 ### [Claukit](https://github.com/hrshkshri/claukit)
 
 Your Claude companion — tokens, cache, and usage all in one spot.
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="claukit stack" />
-</p>
 
 <br/>
 
