@@ -28,8 +28,8 @@ Your Claude companion — tokens, cache, and usage all in one spot.
 
 ### Skills
 
-**Core** — TypeScript · Node.js · React · Next.js · Python · PostgreSQL
-**AI** — RAG · LLM agents · evals · Deepgram · OpenAI · Gemini
+**Core** — TypeScript · Node.js · React · Next.js · Python · PostgreSQL<br>
+**AI** — RAG · LLM agents · evals · Deepgram · OpenAI · Gemini<br>
 **Infra** — AWS · GCP · Docker · Redis · CI/CD
 
 <!-- ===== FOOTER BANNER ===== -->
