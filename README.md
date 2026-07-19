@@ -10,7 +10,9 @@ npx hrshkshri
 
 - 🤝 **Open to Collaborations!**<br>Got a web or mobile dev idea? Let’s chat and build something great together! 💬
 
-## 🚀 Featured Project — Crelyzor
+## 🚀 Featured Projects
+
+### Crelyzor
 
 **[Crelyzor](https://www.crelyzor.app)** — an all-in-one productivity OS for professionals (digital cards, scheduling, meeting AI, and tasks — all connected).
 
@@ -20,6 +22,12 @@ I'm the **solo author** of Crelyzor — designed, architected, and built it end 
 [![Crelyzor Frontend](https://img.shields.io/badge/Crelyzor-Dashboard-2648ff?style=flat-square&logo=react&logoColor=white)](https://github.com/crelyzor/crelyzor-frontend)
 [![Crelyzor Public](https://img.shields.io/badge/Crelyzor-Public%20Site-2648ff?style=flat-square&logo=next.js&logoColor=white)](https://github.com/crelyzor/crelyzor-public)
 [![Live](https://img.shields.io/badge/Live-crelyzor.app-16a34a?style=flat-square&logo=vercel&logoColor=white)](https://www.crelyzor.app)
+
+### Claukit
+
+**[Claukit](https://github.com/hrshkshri/claukit)** — your Claude companion. Tokens, cache, usage — all in one spot. Built in TypeScript.
+
+[![Claukit](https://img.shields.io/badge/Claukit-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/hrshkshri/claukit)
 
 ## Stalk me 🌍
 
