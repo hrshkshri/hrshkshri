@@ -1,19 +1,19 @@
 <!-- ===== HEADER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2648ff,100:7c3aed&height=200&section=header&text=Harsh%20Keshari&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founding%20Engineer%20%C2%B7%20Solo%20author%20of%20Crelyzor&descAlignY=60&descSize=18" width="100%" alt="Harsh Keshari" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7971e,100:ffd200&height=200&section=header&text=Harsh%20Keshari&fontSize=56&fontColor=1c1c1e&animation=fadeIn&fontAlignY=38&desc=Founding%20Engineer%20%C2%B7%20Solo%20author%20of%20Crelyzor&descAlignY=60&descSize=18" width="100%" alt="Harsh Keshari" />
 </p>
 
 <!-- ===== TYPING ===== -->
 <p align="center">
   <a href="https://www.crelyzor.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=2648FF&center=true&vCenter=true&width=680&lines=Founding+Engineer+%40+Experiment+Labs;Solo+author+of+Crelyzor+%E2%80%94+a+productivity+OS;RAG+%7C+LLM+agents+%7C+realtime+voice;TypeScript+%7C+Node.js+%7C+React+%7C+Next.js;I+build+products+end+to+end" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=F59E0B&center=true&vCenter=true&width=680&lines=Founding+Engineer+%40+Experiment+Labs;Solo+author+of+Crelyzor+%E2%80%94+a+productivity+OS;RAG+%7C+LLM+agents+%7C+realtime+voice;TypeScript+%7C+Node.js+%7C+React+%7C+Next.js;I+build+products+end+to+end" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hrshkshri&label=Profile%20views&color=2648ff&style=for-the-badge" alt="views" />
-  <img src="https://img.shields.io/github/followers/hrshkshri?style=for-the-badge&color=2648ff&logo=github&logoColor=white" alt="followers" />
-  <a href="https://www.crelyzor.app"><img src="https://img.shields.io/badge/%F0%9F%8C%90-crelyzor.app-2648ff?style=for-the-badge" alt="site" /></a>
+  <img src="https://komarev.com/ghpvc/?username=hrshkshri&label=Profile%20views&color=f59e0b&style=for-the-badge" alt="views" />
+  <img src="https://img.shields.io/github/followers/hrshkshri?style=for-the-badge&color=f59e0b&logo=github&logoColor=white" alt="followers" />
+  <a href="https://www.crelyzor.app"><img src="https://img.shields.io/badge/%F0%9F%8C%90-crelyzor.app-f59e0b?style=for-the-badge" alt="site" /></a>
   <a href="https://linkedin.com/in/hrshkshri"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 </p>
 
@@ -39,7 +39,7 @@
 **AI / ML**
 
 <p>
-  <img src="https://img.shields.io/badge/RAG-embeddings%20%2B%20Pinecone-2648ff?style=for-the-badge" alt="rag" />
+  <img src="https://img.shields.io/badge/RAG-embeddings%20%2B%20Pinecone-f59e0b?style=for-the-badge" alt="rag" />
   <img src="https://img.shields.io/badge/LLM%20Agents-LangGraph%20%2F%20LangChain-1c1c1e?style=for-the-badge&logo=langchain&logoColor=white" alt="agents" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="openai" />
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="gemini" />
@@ -60,8 +60,8 @@
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark" alt="db" />
   <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="pinecone" />
-  <img src="https://img.shields.io/badge/Microservices-2648ff?style=for-the-badge" alt="microservices" />
-  <img src="https://img.shields.io/badge/Multi--tenancy-7c3aed?style=for-the-badge" alt="mt" />
+  <img src="https://img.shields.io/badge/Microservices-f59e0b?style=for-the-badge" alt="microservices" />
+  <img src="https://img.shields.io/badge/Multi--tenancy-b45309?style=for-the-badge" alt="mt" />
   <img src="https://img.shields.io/badge/Vector%20Search-1c1c1e?style=for-the-badge" alt="vs" />
 </p>
 
@@ -124,5 +124,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:2648ff&height=120&section=footer" width="100%" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd200,100:f7971e&height=120&section=footer" width="100%" alt="footer" />
 </p>
